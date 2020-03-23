@@ -20,7 +20,7 @@
   "homepage": "https://github.com/misaelta/node_basic_crud#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.6.9",
+    "mongoose": "^5.7.5",
     "nodemon": "^1.19.1",
     "require-dir": "^1.2.0"
   }
